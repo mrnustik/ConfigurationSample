@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "ConfigurationSample.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--MyKey=\"MyKey value from command line\"",
+      "environmentVariables": {
+        "MYKEY": "MyKey value from environment variable"
+      }
+    }
+  }
+}
