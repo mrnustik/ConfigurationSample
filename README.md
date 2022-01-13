@@ -1,5 +1,7 @@
 # Configuration sample
 
+[![.NET](https://github.com/mrnustik/ConfigurationSample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/mrnustik/ConfigurationSample/actions/workflows/dotnet.yml)
+
 This solutions contains two sample projects for showing the powers of .NET `Micrososoft.Extensions.Configuration`
 package:
 
